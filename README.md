@@ -1,3 +1,6 @@
+WHO AM I?
+My name is Laura Vikström.
+
 WHAT IS THE PROJECT?
 
 RESPONSIVE PORTFOLIO WEBSITE
